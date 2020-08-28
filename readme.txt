@@ -5,3 +5,4 @@ horse can talk!
 horse can run!
 horse can say an English Song & know English words &a Chinese Song!
 horse can jump a little
+horse can draw a little 
