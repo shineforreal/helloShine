@@ -3,4 +3,4 @@ horse can crawle!
 horse can walk!
 horse can talk!
 horse can run!
-horse can say English Song & Chinese Song!
+horse can say English Song & know English words &Chinese Song!
